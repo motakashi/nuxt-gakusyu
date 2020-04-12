@@ -1,7 +1,7 @@
 {
   "name": "nuxt-scratch-app",
   "dependencies": {
-    "nuxt": "^2.8.1"
+    "nuxt": "^2.12.2"
   },
   "scripts": {
     "dev": "nuxt",
